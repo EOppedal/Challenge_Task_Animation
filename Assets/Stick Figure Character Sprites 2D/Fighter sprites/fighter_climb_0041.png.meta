@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fighter_climb_0041_0: 2583207541311126922
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

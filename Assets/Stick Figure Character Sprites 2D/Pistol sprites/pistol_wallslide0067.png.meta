@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pistol_wallslide0067_0: -4359976243178446350
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

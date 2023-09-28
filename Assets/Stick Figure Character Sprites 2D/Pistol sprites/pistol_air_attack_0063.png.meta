@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pistol_air_attack_0063_0: 6548810800194912983
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

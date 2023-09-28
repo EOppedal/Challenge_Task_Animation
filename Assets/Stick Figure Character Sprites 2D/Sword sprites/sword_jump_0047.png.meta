@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sword_jump_0047_0: 9101102464621210242
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

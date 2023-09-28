@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fighter_walk_0009_0: -1781337052316675626
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

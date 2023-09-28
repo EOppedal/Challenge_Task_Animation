@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fighter_jump_0043_0: 6282728994412884114
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

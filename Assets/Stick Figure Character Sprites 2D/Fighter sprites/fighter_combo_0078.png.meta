@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fighter_combo_0078_0: 4952990903057853937
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sword_walk_0013_0: 1739304770587879012
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

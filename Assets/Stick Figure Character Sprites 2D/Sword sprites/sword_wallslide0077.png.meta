@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sword_wallslide0077_0: -3009384405230847675
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

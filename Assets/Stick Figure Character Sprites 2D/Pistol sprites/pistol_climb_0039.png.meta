@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pistol_climb_0039_0: 8819209754837406722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

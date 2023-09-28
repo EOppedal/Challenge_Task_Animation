@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fighter_death_0053_0: -2711742465049977930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
